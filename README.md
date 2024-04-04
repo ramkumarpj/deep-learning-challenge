@@ -9,12 +9,12 @@ Clck [here](report.md) for detailed analysis report
 ## Files
 
 * Jupyter Notebook - deep_learning/AlphabetSoupCharity.ipynb
-* Jupyter Notebook with Optimizations - deep-learning/AlphabetSoupCharity_Optimization.ipynb
+* Jupyter Notebook with Optimizations - deep_learning/AlphabetSoupCharity_Optimization.ipynb
 
 ## Run Instructions
 
 * Use Google Colab to open the Notebook
-* Open "deep-learning/AlphabetSoupCharity_Optimization.ipynb" file using Jupyter Notebook
+* Open "deep_learning/AlphabetSoupCharity_Optimization.ipynb" file using Jupyter Notebook
 * Click on 'Cell > Run All' to run
 
 ## Disclaimer
