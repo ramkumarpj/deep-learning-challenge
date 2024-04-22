@@ -3,7 +3,7 @@
 The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. The goal is to create a Binary Classifier,
 using the features provided in the dataset that can predict whether applications will be successful, if funded by Alphabet Soup.
 
-Clck [here](report.md) for detailed analysis report
+Click [here](report.md) for detailed analysis report
 
 
 ## Files
